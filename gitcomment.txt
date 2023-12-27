@@ -1,0 +1,13 @@
+
+https://github.com/sridharmessi/python_learning.git
+
+
+git config --global user.email "sridharmessi@gmail.com"
+git config --global user.name "sridhar"
+
+
+
+git remote add DF https://github.com/sridharmessi/python_learning.git
+git remote -v
+git push DF intial_code
+//changes
